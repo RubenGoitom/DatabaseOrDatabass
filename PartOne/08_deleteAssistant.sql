@@ -1,0 +1,1 @@
+delete from assistant where id = 3;

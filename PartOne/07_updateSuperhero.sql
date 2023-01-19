@@ -1,0 +1,1 @@
+Update superheroes set origin = 'Russia' where id = 2;
